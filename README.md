@@ -1,7 +1,5 @@
 # Admiresky's privacy policy
 
-EN / 日本語
-
 Admiresky's privacy policy
 
 1. Information acquired by the application and purpose of use
